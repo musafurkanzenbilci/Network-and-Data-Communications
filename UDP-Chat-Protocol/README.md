@@ -1,18 +1,21 @@
 # UDP Chat Protocol
 
-A simple implementation of a chat protocol using the User Datagram Protocol (UDP) in C language.
+A simple implementation of a chat protocol using the User Datagram Protocol (UDP) in C language and Go-Back-N Approach.
 
 ## Features
 
 - Real-time communication between multiple clients
+- Packet Loss and Timeout Management with Go-Back-N Approach
 - No need for a central server
 - Lightweight and efficient
+- Multithreading
 
 ## Usage
 
-1. Compile the code using the command `gcc -o chat main.c`
-2. Run the compiled file by typing `./chat` in the terminal
-3. Start chatting by typing messages and pressing enter
+1. Create yourself 2 seperate vagrant machines.
+2. Setup the network channel settings.
+3. Compile the code with (`make`)
+4. Start chatting by typing messages and pressing enter
 
 ## Contributing
 
