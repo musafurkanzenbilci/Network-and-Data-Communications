@@ -4,10 +4,9 @@ Implementation of routing algorithm between nodes using the Distance Vector Rout
 
 ## Features
 - Implements the Distance Vector Algorithm for routing in a network
+- Advertisement of vectors to the immediate neighbours
 - Handles dynamic changes in the network topology
 - Calculates the shortest path to a destination based on current information
-- Can handle multiple paths to a destination and implements load balancing
-- Provides a user-friendly interface for configuring and monitoring the routing information
 - Logs all routing updates and events for later analysis
 - Scalable to large networks
 - Robust and fault-tolerant design
