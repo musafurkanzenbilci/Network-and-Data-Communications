@@ -1,6 +1,6 @@
 # UDP Chat Protocol
 
-A simple implementation of a chat protocol using the User Datagram Protocol (UDP) in C language and Go-Back-N Approach.
+A server/client implementation of a chat protocol using the User Datagram Protocol (UDP) in C language and Go-Back-N Approach.
 
 ## Features
 
