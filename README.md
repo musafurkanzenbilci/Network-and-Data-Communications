@@ -4,7 +4,7 @@ This repository contains a collection of various projects related to network and
 
 ## Projects
 
-1. **UDP Chat Protocol**: A simple implementation of a chat protocol using the User Datagram Protocol (UDP) in C language.
+1. **UDP Chat Protocol**: A server/client implementation of a chat protocol using the User Datagram Protocol (UDP) in C language.
 3. **Distance Vector Algorithm**: An implementation of distance vector routing algorithm for finding the shortest path in a network in Python.
 
 ## Getting Started
